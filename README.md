@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cloudyaa
-- 👀 I’m interested in web design and graphic
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 How to reach me:
+👋 Introduction
+----------------------------------------------------------------------------------------------------------------------
+Hi, I’m _@Cloudyaa_. I’m interested in web design and graphic. I’m currently learning HTML, CSS, JavaScript
+📫 Reach me there:
 - @linkedin.com/in/klaudia-olczyk-1172ab216
 - @instagram.com/cloud_yaa/
 
