@@ -5,7 +5,7 @@ Hi, I’m _@Cloudyaa_. I’m interested in web design and graphic. I’m current
 
 ## 📫 Find me there
 <a href="https://codepen.io/cloud-yaa"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+<a href="https://replit.com/@Cloudyaa5">![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)</a>
 <a href="https://linkedin.com/in/klaudia-olczyk-1172ab216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/cloud_yaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
