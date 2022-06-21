@@ -1,6 +1,6 @@
 👋 Introduction
 ----------------------------------------------------------------------------------------------------------------------
-Hi, I’m _@Cloudyaa_. I’m interested in web design and graphic. I’m currently learning HTML, CSS, JavaScript
+Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can't decide between front-end and back-end, so going full stack 💪🏻 Currently learning JS on MegaK v2.
 
 
 ## 📫 Find me there
