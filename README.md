@@ -1,7 +1,6 @@
 👋 Introduction
 ----------------------------------------------------------------------------------------------------------------------
-Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can't decide between front-end and back-end, so going full stack 💪🏻 Currently learning JS on MegaK v2.
-
+Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can't decide between front-end and back-end, so going full stack 💪🏻 Currently learning Express.js and Bootstrap
 
 ## 📫 Find me there
 <a href="https://codepen.io/cloud-yaa"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
@@ -21,6 +20,7 @@ Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can'
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
