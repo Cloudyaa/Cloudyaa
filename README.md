@@ -7,6 +7,8 @@ Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can'
 <a href="https://replit.com/@Cloudyaa5">![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)</a>
 <a href="https://linkedin.com/in/klaudia-olczyk-1172ab216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/cloudyaa_thecreator/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.tiktok.com/@cloudyaa_thecreator?_t=8W41EFbwVzZ&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+<p> My portfolio <a href="https://cloudyaa.github.io/">here</a> </p>
 
 
 <img src="https://media.pocketgamer.biz/2021/5/110514/discord-new-logo-2021-r225x.jpg" width="20px"/> @Cloudyaa#9918
