@@ -1,6 +1,6 @@
 👋 Introduction
 ----------------------------------------------------------------------------------------------------------------------
-Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can't decide between front-end and back-end, so going full stack 💪🏻 Currently learning Mongo.DB and Bootstrap
+Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can't decide between front-end and back-end, so going full stack 💪🏻 Currently learning React and Typescript
 
 ## 📫 Find me there
 <a href="https://codepen.io/cloud-yaa"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
@@ -23,6 +23,8 @@ Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can'
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
