@@ -1,6 +1,6 @@
 👋 Introduction
 ----------------------------------------------------------------------------------------------------------------------
-Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can't decide between front-end and back-end, so going full stack 💪🏻 Currently learning React and Typescript
+Hi, I’m _@Cloudyaa_. I’m in love with Web development and design. Still can't decide between front-end and back-end, so going full stack 💪🏻 Currently learning React and Nest.js
 
 ## 📫 Find me there
 <a href="https://codepen.io/cloud-yaa"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
